@@ -1,4 +1,4 @@
-package Lumel_TestNG;
+package Lumel_TestNG_new;
 import java.time.Duration;
 
 import java.util.List;
